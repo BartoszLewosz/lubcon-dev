@@ -25,3 +25,42 @@
   top: 0;
   padding: 3rem;
 }
+
+.separator::before {
+  content: "";
+  background-color: #0093DD;
+  display: block;
+  height: 2px;
+  width: 90%;
+  margin: 0.5rem;
+
+}
+
+.custom-list {
+  list-style-type: none;
+}
+
+.custom-list li {
+  padding: 1rem 0 1rem 3rem;
+  position: relative;
+}
+
+
+.custom-list li::before {
+  /* content: url("https://8000-bartoszlewos-wagtailcrx-2gh8izkespk.ws-eu94.gitpod.io/media/images/custom_bullet_point.original.png"); */
+  content: '';
+  display: inline-block;
+  background: url("http://127.0.0.1:8000/media/images/custom-bullet-point.original.png");
+  height: 2rem;
+  width: 2rem;
+  left: 0;
+  top: 50%;
+  transform: translate(0, -50%);
+  position: absolute;
+}
+
+.pre-footer {
+  display: inline-block;
+  background: #0093DD;
+  width: 100%;
+}
