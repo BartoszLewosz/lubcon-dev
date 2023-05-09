@@ -1,6 +1,11 @@
 /* Add your custom styles here */
 
-
+body {
+  overflow-x: hidden;
+}
+.container-fluid {
+  padding: 0;
+}
 /* Adds a bit of spacing to "Responsive Grid Row" blocks. */
 .crx-grid {
   padding-top: 40px;
