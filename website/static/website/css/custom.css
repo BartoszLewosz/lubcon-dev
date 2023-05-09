@@ -68,4 +68,5 @@ body {
   display: inline-block;
   background: #0093DD;
   width: 100%;
+  position: absolute;
 }
