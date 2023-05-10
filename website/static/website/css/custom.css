@@ -99,3 +99,8 @@ body {
 
 }
 
+.footer__list li:first-child::before {
+  display: none;
+}
+
+
