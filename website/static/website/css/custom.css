@@ -66,17 +66,36 @@ body {
 
 .footer {
   display: inline-block;
-  background: #0093DD;
+  background: #393838;
   width: 100%;
   position: absolute;
 }
 
 .footer__list {
   list-style-type: none;
-  background-color: #393838;
   color: #93D0F4;
-  margin: 0;
+  margin: 2rem;
+  padding: 0;
+}
+
+.footer__list li {
+  display: inline-block;
+  position: relative;
+  padding: 0 2rem; 
+  /* padding: top/bottom and left/right */
 }
 
 
+
+.footer__list li::before {
+  content: '';
+  height: 2rem;
+  width: 2px;
+  left: 0;
+  top: 50%;
+  transform: translate(0, -50%);
+  background-color: #93D0F4;
+  position: absolute;
+
+}
 
