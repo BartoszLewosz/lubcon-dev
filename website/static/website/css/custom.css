@@ -70,3 +70,9 @@ body {
   width: 100%;
   position: absolute;
 }
+
+.footer__list {
+  list-style-type: none;
+  background-color: #393838;
+  color: #93D0F4;
+}
