@@ -109,3 +109,7 @@ body {
   margin-left: auto;
 }
 
+.footer__list li:last-child::before {
+  display: none;
+}
+
