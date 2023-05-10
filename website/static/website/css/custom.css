@@ -76,6 +76,8 @@ body {
   color: #93D0F4;
   margin: 2rem;
   padding: 0;
+  display: flex;
+  justify-content: space-between;
 }
 
 .footer__list li {
@@ -102,5 +104,8 @@ body {
 .footer__list li:first-child::before {
   display: none;
 }
-
+.footer__list li:last-child {
+  font-weight: 100;
+  margin-left: auto;
+}
 
