@@ -43,13 +43,14 @@ body {
 
 }
 
-.custom-list {
+.custom-list, .pre-footer {
   list-style-type: none;
 }
 
 .custom-list li {
   padding: 1rem 0 1rem 3rem;
   position: relative;
+  text-align: left;
 }
 
 
@@ -70,7 +71,6 @@ body {
   display: inline-block;
   background: #393838;
   width: 100%;
-  position: absolute;
 }
 
 .footer__list {
