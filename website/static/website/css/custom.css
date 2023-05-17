@@ -18,6 +18,20 @@ body {
   padding-bottom: 0;
 }
 
+.main-nav {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  padding: 2rem;
+  width: 100%;
+}
+
+.main-nav li:last-child {
+  border: 2px solid black;
+  border-radius: 8px;
+  margin-left: 6rem;
+
+}
 .hero {
   height: 500px;
   position: relative;
