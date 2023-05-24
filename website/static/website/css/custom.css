@@ -42,12 +42,18 @@ body {
 }
 .main-button {
   background-color: #0093DD;
+  
   text-align: center;
   border: 2px solid black;
   border-radius: 8px;
   padding: 2px 16px ;
-  margin-left: 6rem;
   box-shadow: inset -4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.submit-button {
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  margin: auto;
 }
 
 #main-nav__last-child {
