@@ -134,6 +134,9 @@ body {
   transform: translate(0, -50%);
   position: absolute;
 }
+#logo__bottom {
+  margin: 1rem;
+}
 .link__contact {
   text-decoration: none;
   color: inherit;
