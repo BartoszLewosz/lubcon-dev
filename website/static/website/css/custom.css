@@ -40,10 +40,19 @@ body {
   margin-left: 6rem;
   box-shadow: inset -4px 4px 4px rgba(0, 0, 0, 0.25);
 }
+
+.main-button__column {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .main-button {
   background-color: #0093DD;
-  
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 4.5rem;
+  width: 10rem;
   border: 2px solid black;
   border-radius: 8px;
   padding: 2px 16px ;
@@ -89,8 +98,7 @@ body {
   background-color: #0093DD;
   display: block;
   height: 2px;
-  width: 100%;
-  margin: 0.5rem;
+  align-items: center;
 
 }
 
