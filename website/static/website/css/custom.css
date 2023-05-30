@@ -187,3 +187,27 @@ body {
   font-weight: 100;
   margin-left: auto;
 }
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) { 
+    .footer__bottom {
+      display: grid;
+    }
+    .footer__bottom li{
+      padding: 0.5rem;
+    }
+    .footer__bottom li::before {
+      display: none;
+    }
+    .footer__bottom li:last-child {
+      margin-top: 1rem;
+    }
+    .footer__list, #footer__phone-icon, .footer__envelope-icon{
+      display: none;
+    }
+    .footer__address {
+      display: flex;
+      justify-content: center;
+    }
+}
+
