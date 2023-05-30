@@ -41,7 +41,7 @@ body {
   box-shadow: inset -4px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-.main-button__column {
+.main-button__column, .pre-footer {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -125,13 +125,11 @@ body {
   transform: translate(0, -50%);
   position: absolute;
 }
-
-.pre-footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.link__contact {
+  text-decoration: none;
+  color: inherit;
+  border-bottom: 2px solid #0093DD;
 }
-
 .footer__address {
   text-align: left;
 }
