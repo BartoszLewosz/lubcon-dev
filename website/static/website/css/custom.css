@@ -213,3 +213,71 @@ body {
     }
 }
 
+.sectors {
+  background-color: aqua;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.sectors__item {
+  display: flex;
+  background-size: cover;
+  background-position: center;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  height: 150px;
+  width: 150px;
+  
+}
+
+#automotive_industry {
+  background-image: url();
+}
+#aviation_industry {
+  background-image: url();
+}
+#train_industry {
+  background-image: url();
+}
+#machine-tool_industry {
+  background-image: url();
+}
+#bike_industry {
+  background-image: url();
+}
+#vacuum_industry {
+  background-image: url();
+}
+#valves_industry {
+  background-image: url();
+}
+#wind_industry {
+  background-image: url();
+}
+#pharma_industry {
+  background-image: url();
+}
+#food_industry {
+  background-image: url();
+}
+#wood_industry {
+  background-image: url();
+}
+#corrugated_industry {
+  background-image: url();
+}
+#paper_industry {
+  background-image: url();
+}
+#textile_industry {
+  background-image: url();
+}
+#printing_industry {
+  background-image: url();
+}
