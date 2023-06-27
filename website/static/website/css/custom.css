@@ -214,14 +214,13 @@ body {
 }
 
 .sectors {
-  background-color: aqua;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-template-rows: repeat(3, 1fr);
-  gap: 1rem;
+  gap: 5rem;
   justify-content: center;
   align-items: center;
-  
+  margin: 3rem 1rem 3rem 1rem;
 }
 
 .sectors__item {
