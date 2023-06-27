@@ -243,12 +243,31 @@ body {
   
 }
 
+
 .sectors__item--title {
   font-size: 0.875rem;
   display: flex;
   align-self: flex-end;
-  padding-top: 4rem;
   margin-bottom: -3rem;
+}
+
+@media only screen 
+  and (min-device-width: 355px) 
+  and (max-device-width: 900px) { 
+  .industrial-sectors{
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 4rem;
+  }
+  .sectors__item {
+    height: 100px;
+    width: 100px;
+  }
+  .sectors__item--title {
+    font-size: 0.8rem;
+    margin-bottom: -4rem;
+  }
 }
 
 #automotive_industry {
