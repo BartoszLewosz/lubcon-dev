@@ -143,6 +143,12 @@ body {
   transform: translate(0, -50%);
   position: absolute;
 }
+
+#footer__phone-icon {
+  height: 64px;
+  width: 64px;
+}
+
 #logo__bottom {
   margin: 1rem;
 }
