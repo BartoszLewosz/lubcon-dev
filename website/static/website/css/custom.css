@@ -98,6 +98,10 @@ body {
   padding: 3rem;
 }
 
+/* #history__logo {
+  display: none;
+} */
+
 .contact-form {
   display: grid;
   grid-auto-flow: row;
@@ -243,8 +247,8 @@ body {
   justify-content: center;
   align-items: center;
   padding: 20px;
-  height: 150px;
-  width: 150px;
+  height: 100px;
+  width: 100px;
   
 }
 
