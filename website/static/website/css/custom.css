@@ -70,7 +70,6 @@ body {
   align-items: center;
   justify-content: center;
   height: 4.5rem;
-  width: 10rem;
   border: 2px solid black;
   border-radius: 8px;
   padding: 2px 16px ;
@@ -249,6 +248,9 @@ body {
   display: flex;
   align-self: flex-end;
   margin-bottom: -3rem;
+  white-space: nowrap;
+  font-weight: 600;
+  font-size: larger;
 }
 
 @media only screen 
@@ -266,7 +268,7 @@ body {
   }
   .sectors__item--title {
     font-size: 0.8rem;
-    margin-bottom: -4rem;
+    margin-bottom: -3rem;
   }
 }
 
