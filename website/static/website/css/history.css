@@ -68,7 +68,15 @@
     width: 100px;
     height: 100px;
     
-  }
+}
+
+.timeline__icon {
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 75px;
+  height: 75px;
+  padding: 1rem;
+}
   
   .timeline__icon--date-right {
     position: relative;
@@ -84,7 +92,6 @@
   
   #icon-1980 {
     background-image: url("http://127.0.0.1:8000/media/images/Icon_-_barrel_Lubcon.original.png");
-    padding: 16px;
   }
   
 
