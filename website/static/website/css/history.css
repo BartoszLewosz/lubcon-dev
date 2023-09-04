@@ -78,9 +78,19 @@
     position: relative;
     left: -5rem;
   }
+
+  /* ICONS */
   
+  #icon-1980 {
+    background-image: url("http://127.0.0.1:8000/media/images/Icon_-_barrel_Lubcon.original.png");
+    padding: 16px;
+  }
+  
+
+  /* IMAGES */
+
   #image-1980 {
-    background-image: url("ph_phone-call-thin.png");
+    background-image: url();
   }
   
   #image-1985 {
