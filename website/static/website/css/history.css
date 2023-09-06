@@ -93,6 +93,29 @@
   #icon-1980 {
     background-image: url("http://127.0.0.1:8000/media/images/Icon_-_barrel_Lubcon.original.png");
   }
+  #icon-1985 {
+    background-image: url(/media/images/024-settings_4.original.png);
+  }
+
+  #icon-1990 {
+    background-image: url(../../../../media/images/004-lubricant_4.original.png);
+  }
+
+  #icon-1999 {
+    background-image: url(/media/images/030-flask_4.max-165x165.png);
+  }
+  
+  #icon-2005 {
+    background-image: url(/media/images/united-kingdom_4.max-165x165.png);
+  }
+
+  #icon-2012 {
+    background-image: url(/media/images/Group.original.png);
+  }
+
+  #icon-2023 {
+    background-image: url(/media/images/Group-1.max-165x165.png);
+  }
   
 
   /* IMAGES */
