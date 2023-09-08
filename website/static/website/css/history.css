@@ -121,7 +121,8 @@
   /* IMAGES */
 
   #image-1980 {
-    background-image: url();
+    background-image: url(/media/images/lubcon_history_1980.max-165x165.jpg); 
+    filter: grayscale(1) blur(1px) contrast(1.2) sepia(1);
   }
   
   #image-1985 {
