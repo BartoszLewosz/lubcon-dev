@@ -1,6 +1,6 @@
 /* Add your custom styles here */
 @import url("history.css");
-
+@import url("products.css");
 body {
   overflow-x: hidden;
   text-align: center;
