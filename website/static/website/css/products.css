@@ -28,6 +28,7 @@
 #barrel {
     width: calc(100px * 0.75);
 }
+
 @media(max-width: 600px) {
     .products__list {
         grid-template-columns: 1fr;
