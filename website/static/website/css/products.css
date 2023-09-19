@@ -1,0 +1,35 @@
+.products {
+    margin: 0 auto;
+    max-width: 1080px;
+}
+.products__list {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 4rem;
+    list-style-type: none;
+    padding: 0;
+    
+}
+.products__list li {
+    border-top: 1px #0093DD solid;
+    border-bottom: 1px #0093DD solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+}
+
+.products__image {
+    width: 100px;
+    height: 100px;
+}
+
+#barrel {
+    width: calc(100px * 0.75);
+}
+@media(max-width: 600px) {
+    .products__list {
+        grid-template-columns: 1fr;
+    }
+}
