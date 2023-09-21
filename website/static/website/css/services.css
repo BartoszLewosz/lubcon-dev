@@ -1,0 +1,9 @@
+#main-button__services {
+    margin-bottom: 4rem;
+}
+
+.services__text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
