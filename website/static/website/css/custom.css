@@ -60,12 +60,18 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
+  
+  .services {
+    order: -1;
+  }
 }
+
 .main-button__column, .pre-footer {
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
 
 .main-button {
   background-color: #0093DD;
@@ -290,6 +296,8 @@ body {
     margin-bottom: -3rem;
   }
 }
+
+
 
 #automotive_industry {
   background-image: url("http://127.0.0.1:8000/media/images/automotive_1.original.png");
