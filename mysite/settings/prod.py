@@ -7,7 +7,7 @@ DEBUG = False
 SECRET_KEY = "#_*q$w!)-1&@za0m3-wwk1sp3^zx@hq@=avj@5(pkpea0nl26z"
 
 # Add your site's domain name(s) here.
-ALLOWED_HOSTS = ["www.lubcon.pythonanywhere.com"]
+ALLOWED_HOSTS = ["lubcon.pythonanywhere.com"]
 
 # To send email from the server, we recommend django_sendmail_backend
 # Or specify your own email backend such as an SMTP server.
