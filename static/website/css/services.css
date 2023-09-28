@@ -1,0 +1,10 @@
+#main-button__services {
+    margin-bottom: 8rem;
+    margin-top: -2rem;
+}
+
+.services__text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
