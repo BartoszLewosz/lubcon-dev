@@ -74,8 +74,7 @@ body {
 
 
 .main-button {
-  /* background-color: #0093DD; */
-  background-color: aquamarine;
+  background-color: ##fff;
   display: flex;
   align-items: center;
   justify-content: center;
