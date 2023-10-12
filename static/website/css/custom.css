@@ -53,14 +53,14 @@ body {
     margin-left: 0;
   }
 
-  
+
 }
 @media(max-width: 600px) {
   .sectors {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
-  
+
   .services {
     order: -1;
   }
@@ -198,7 +198,7 @@ body {
 .footer__bottom li {
   display: inline-block;
   position: relative;
-  padding: 0 2rem; 
+  padding: 0 2rem;
   /* padding: top/bottom and left/right */
 }
 
@@ -221,9 +221,9 @@ body {
   font-weight: 100;
   margin-left: auto;
 }
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px) { 
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px) {
     .footer__bottom {
       display: grid;
     }
@@ -264,7 +264,7 @@ body {
   padding: 20px;
   height: 100px;
   width: 100px;
-  
+
 }
 
 
@@ -278,9 +278,9 @@ body {
   font-size: larger;
 }
 
-@media only screen 
-  and (min-device-width: 355px) 
-  and (max-device-width: 900px) { 
+@media only screen
+  and (min-device-width: 355px)
+  and (max-device-width: 900px) {
   .industrial-sectors{
     display: grid;
     align-items: center;
