@@ -16,7 +16,7 @@ ALLOWED_HOSTS = ["lubcon.pythonanywhere.com"]
 # EMAIL_BACKEND = "django_sendmail_backend.backends.EmailBackend"
 
 # Default email address used to send messages from the website.
-DEFAULT_FROM_EMAIL = "LUBCON Lubricants UK Ltd. <info@lubcon.co.uk>"
+DEFAULT_FROM_EMAIL = "LUBCON Lubricants UK Ltd. <service@lubcon.co.uk>"
 
 # A list of people who get error notifications.
 ADMINS = [
