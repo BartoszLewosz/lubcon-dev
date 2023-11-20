@@ -363,7 +363,10 @@ ehthumbs_vista.db
 # Dump file
 *.stackdump
 dump.json
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 # Folder config file
 [Dd]esktop.ini
 
