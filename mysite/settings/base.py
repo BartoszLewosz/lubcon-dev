@@ -103,16 +103,15 @@ WSGI_APPLICATION = "mysite.wsgi.application"
 
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
-
 DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.mysql",
-        "NAME": "lubcon$wagtail_db",
-        "USER": "lubcon",
-        "PASSWORD": "Turmogrease5$",
-        "HOST": "lubcon.mysql.pythonanywhere-services.com",
-        "PORT": "3306",
-    }
+    'default': {
+        'ENGINE': config('DB_ENGINE'),
+        'NAME': config('DB_NAME'),
+        'USER': config('DB_USER'),
+        'PASSWORD': config('DB_PASSWORD'),
+        'HOST': config('DB_HOST'),
+        'PORT': config('DB_PORT'),
+    },
 }
 
 #DATABASES = {
