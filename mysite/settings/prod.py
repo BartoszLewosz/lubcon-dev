@@ -4,8 +4,9 @@ from .base import *  # noqa
 DEBUG = False
 
 # SECURITY WARNING: keep the secret key used in production secret!
-with open('/home/lubcon/lubcon-dev/secret_key.txt') as f:
-    SECRET_KEY = f.read().strip()
+#with open('/home/lubcon/lubcon-dev/secret_key.txt') as f:
+#    SECRET_KEY = f.read().strip()
+SECRET_KEY = config('SECRET_KEY')
 
 # Add your site's domain name(s) here.
 ALLOWED_HOSTS = ["lubcon.pythonanywhere.com"]
