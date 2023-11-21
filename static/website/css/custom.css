@@ -111,12 +111,12 @@ body {
   position: relative;
 }
 
-.hero__logo {
+/* .hero__logo {
   position: absolute;
   right: 0;
   top: 0;
   padding: 3rem;
-}
+} */
 
 /* #history__logo {
   display: none;
