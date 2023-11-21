@@ -4,7 +4,7 @@ from .base import *  # noqa
 DEBUG = True
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "#_*q$w!)-1&@za0m3-wwk1sp3^zx@hq@=avj@5(pkpea0nl26z"
+SECRET_KEY = config('SECRET_KEY') 
 
 ALLOWED_HOSTS = ["*"]
 

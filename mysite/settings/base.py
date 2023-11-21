@@ -111,16 +111,7 @@ WSGI_APPLICATION = "mysite.wsgi.application"
 #     }
 # }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'wagtail_db',
-#         'USER': 'root',
-#         'PASSWORD': 'Turmogrease5$',
-#         'HOST': 'localhost',
-#         'PORT': '3308',
-#     },
-# }
+
 
 
 # BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
