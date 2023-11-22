@@ -306,47 +306,47 @@ body {
 
 #automotive_industry {
   /* background-image: url("http://127.0.0.1:8000/media/images/automotive_1.original.png"); */
-  background-image: url('/media/original_images/automotive_1.original.png');
+  background-image: url('/media/original_images/automotive_1.png');
 }
 #aviation_industry {
-  background-image: url("/media/original_images/005-airplane_1.original.png");
+  background-image: url("/media/original_images/005-airplane_1.png");
 }
 #train_industry {
-  background-image: url("/media/original_images/rail_1.original.png");
+  background-image: url("/media/original_images/rail_1.png");
 }
 #machine-tool_industry {
-  background-image: url("/media/original_images/009-laser-cutting-machine_1.original.png");
+  background-image: url("/media/original_images/009-laser-cutting-machine_1.png");
 }
 #bike_industry {
-  background-image: url("/media/original_images/007-bicycle_1.original.png");
+  background-image: url("/media/original_images/007-bicycle_1.png");
 }
 #vacuum_industry {
-  background-image: url("/media/original_images/chemical-vapor-deposition_1.original.png");
+  background-image: url("/media/original_images/chemical-vapor-deposition_1.png");
 }
 #valves_industry {
-  background-image: url("/media/original_images/pipe_1.original.png");
+  background-image: url("/media/original_images/pipe_1.png");
 }
 #wind_industry {
-  background-image: url("/media/original_images/wind-turbine_1.original.png");
+  background-image: url("/media/original_images/wind-turbine_1.png");
 }
 #pharma_industry {
-  background-image: url("/media/original_images/pharmaceutical_1.original.png");
+  background-image: url("/media/original_images/pharmaceutical_1.png");
 }
 #food_industry {
-  background-image: url("/media/original_images/003-conveyor_1.original.png");
+  background-image: url("/media/original_images/003-conveyor_1.png");
 }
 #wood_industry {
-  background-image: url("/media/original_images/saw_1.original.png");
+  background-image: url("/media/original_images/saw_1.png");
 }
 #corrugated_industry {
-  background-image: url("/media/original_images/004-box_1.original.png");
+  background-image: url("/media/original_images/004-box_1.png");
 }
 #paper_industry {
-  background-image: url("/media/original_images/002-paper-roll_1.original.png");
+  background-image: url("/media/original_images/002-paper-roll_1.png");
 }
 #textile_industry {
-  background-image: url("/media/original_images/textile_1.original.png");
+  background-image: url("/media/original_images/textile_1.png");
 }
 #printing_industry {
-  background-image: url("/media/original_images/010-printer_1.original.png");
+  background-image: url("/media/original_images/010-printer_1.png");
 }
