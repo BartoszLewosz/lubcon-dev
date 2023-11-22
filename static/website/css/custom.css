@@ -159,7 +159,7 @@ body {
 .custom-list li::before {
   content: '';
   display: inline-block;
-  background: url("http://127.0.0.1:8000/media/images/custom-bullet-point.original.png");
+  background: url("/media/images/custom-bullet-point.original.png");
   height: 2rem;
   width: 2rem;
   left: 0;
@@ -305,47 +305,48 @@ body {
 
 
 #automotive_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/automotive_1.original.png");
+  /* background-image: url("http://127.0.0.1:8000/media/images/automotive_1.original.png"); */
+  background-image: url('/media/original_images/automotive_1.original.png');
 }
 #aviation_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/005-airplane_1.original.png");
+  background-image: url("/media/original_images/005-airplane_1.original.png");
 }
 #train_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/rail_1.original.png");
+  background-image: url("/media/original_images/rail_1.original.png");
 }
 #machine-tool_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/009-laser-cutting-machine_1.original.png");
+  background-image: url("/media/original_images/009-laser-cutting-machine_1.original.png");
 }
 #bike_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/007-bicycle_1.original.png");
+  background-image: url("/media/original_images/007-bicycle_1.original.png");
 }
 #vacuum_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/chemical-vapor-deposition_1.original.png");
+  background-image: url("/media/original_images/chemical-vapor-deposition_1.original.png");
 }
 #valves_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/pipe_1.original.png");
+  background-image: url("/media/original_images/pipe_1.original.png");
 }
 #wind_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/wind-turbine_1.original.png");
+  background-image: url("/media/original_images/wind-turbine_1.original.png");
 }
 #pharma_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/pharmaceutical_1.original.png");
+  background-image: url("/media/original_images/pharmaceutical_1.original.png");
 }
 #food_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/003-conveyor_1.original.png");
+  background-image: url("/media/original_images/003-conveyor_1.original.png");
 }
 #wood_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/saw_1.original.png");
+  background-image: url("/media/original_images/saw_1.original.png");
 }
 #corrugated_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/004-box_1.original.png");
+  background-image: url("/media/original_images/004-box_1.original.png");
 }
 #paper_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/002-paper-roll_1.original.png");
+  background-image: url("/media/original_images/002-paper-roll_1.original.png");
 }
 #textile_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/textile_1.original.png");
+  background-image: url("/media/original_images/textile_1.original.png");
 }
 #printing_industry {
-  background-image: url("http://127.0.0.1:8000/media/images/010-printer_1.original.png");
+  background-image: url("/media/original_images/010-printer_1.original.png");
 }
