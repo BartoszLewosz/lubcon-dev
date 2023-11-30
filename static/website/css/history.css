@@ -91,66 +91,61 @@
   /* ICONS */
 
   #icon-1980 {
-<<<<<<< HEAD
-    background-image: url("/media/images/Icon_-_barrel_Lubcon.original.png");
-=======
-    background-image: url("/media/original_images/Icon_-_barrel_Lubcon.original.png");
->>>>>>> main
+    background-image: url(/media/original_images/Icon_-_barrel_Lubcon.png);
   }
+
   #icon-1985 {
-    background-image: url(/media/original_images/024-settings_4.original.png);
+    background-image: url(/media/original_images/024-settings.png);
+    /* https://www.pythonanywhere.com/user/lubcon/files/home/lubcon/lubcon-dev/media/original_images/024-settings.png */
   }
 
   #icon-1990 {
-    background-image: url(/media/original_images/004-lubricant_4.original.png);
+    background-image: url(/media/original_images/004-lubricant_4.png);
   }
 
   #icon-1999 {
-    background-image: url(/media/original_images/030-flask_4.max-165x165.png);
+    background-image: url(/media/original_images/lab_flask.png);
   }
 
   #icon-2005 {
-    background-image: url(/media/original_images/united-kingdom_4.max-165x165.png);
+    background-image: url(/media/original_images/united-kingdom_4.png);
   }
 
   #icon-2012 {
-    background-image: url(/media/original_images/Group.original.png);
+    background-image: url(/media/original_images/Group.png);
   }
 
   #icon-2023 {
-    background-image: url(/media/original_images/Group-1.max-165x165.png);
+    background-image: url(/media/original_images/Group-1.png);
   }
 
 
   /* IMAGES */
 
   #image-1980 {
-<<<<<<< HEAD
-    background-image: url(/media/images/lubcon_history_1980.max-165x165.jpg);
-=======
-    background-image: url(/media/original_images/lubcon_history_1980.max-165x165.jpg); 
->>>>>>> main
+
+    background-image: url(/media/original_images/lubcon_history_1980.jpg);
     filter: grayscale(1) blur(1px) contrast(1.2) sepia(1);
   }
 
   #image-1985 {
-    background-image: url(/media/original_images/lubcon_history_1985.max-800x600.jpg);
+    background-image: url(/media/original_images/lubcon_history_1985.jpg);
   }
 
   #image-1990 {
-    background-image: url(/media/original_images/lubcon_history_1990.max-800x600.jpg);
+    background-image: url(/media/original_images/lubcon_history_1990.jpg);
   }
 
   #image-1999 {
-    background-image: url(/media/original_images/lubcon_history_1999.max-800x600.jpg);
+    background-image: url(/media/original_images/lubcon_history_1999.jpg);
   }
 
   #image-2005 {
-    background-image: url(/media/original_images/lubcon_history_2005.max-800x600.jpg);
+    background-image: url(/media/original_images/lubcon_history_2005.jpg);
   }
 
   #image-2012 {
-    background-image: url(/media/original_images/lubcon_history_2012.max-800x600.jpg);
+    background-image: url(/media/original_images/lubcon_history_2012.jpg);
   }
 
   /* #image-2023 {
