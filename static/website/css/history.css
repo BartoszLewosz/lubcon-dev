@@ -91,31 +91,32 @@
   /* ICONS */
 
   #icon-1980 {
-    background-image: url("/media/original_images/Icon_-_barrel_Lubcon.original.png");
+    background-image: url(/media/original_images/Icon_-_barrel_Lubcon.png);
   }
 
   #icon-1985 {
-    background-image: url(/media/original_images/024-settings_4.original.png);
+    background-image: url(/media/original_images/024-settings.png);
+    /* https://www.pythonanywhere.com/user/lubcon/files/home/lubcon/lubcon-dev/media/original_images/024-settings.png */
   }
 
   #icon-1990 {
-    background-image: url(/media/original_images/004-lubricant_4.original.png);
+    background-image: url(/media/original_images/004-lubricant_4.png);
   }
 
   #icon-1999 {
-    background-image: url(/media/original_images/030-flask_4.max-165x165.png);
+    background-image: url(/media/original_images/030-flask_4.png);
   }
 
   #icon-2005 {
-    background-image: url(/media/original_images/united-kingdom_4.max-165x165.png);
+    background-image: url(/media/original_images/united-kingdom_4.png);
   }
 
   #icon-2012 {
-    background-image: url(/media/original_images/Group.original.png);
+    background-image: url(/media/original_images/Group.png);
   }
 
   #icon-2023 {
-    background-image: url(/media/original_images/Group-1.max-165x165.png);
+    background-image: url(/media/original_images/Group-1.png);
   }
 
 
