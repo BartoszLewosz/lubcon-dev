@@ -91,12 +91,9 @@
   /* ICONS */
 
   #icon-1980 {
-<<<<<<< HEAD
-    background-image: url("/media/images/Icon_-_barrel_Lubcon.original.png");
-=======
     background-image: url("/media/original_images/Icon_-_barrel_Lubcon.original.png");
->>>>>>> main
   }
+
   #icon-1985 {
     background-image: url(/media/original_images/024-settings_4.original.png);
   }
@@ -125,11 +122,8 @@
   /* IMAGES */
 
   #image-1980 {
-<<<<<<< HEAD
-    background-image: url(/media/images/lubcon_history_1980.max-165x165.jpg);
-=======
-    background-image: url(/media/original_images/lubcon_history_1980.max-165x165.jpg); 
->>>>>>> main
+
+    background-image: url(/media/original_images/lubcon_history_1980.max-165x165.jpg);
     filter: grayscale(1) blur(1px) contrast(1.2) sepia(1);
   }
 
